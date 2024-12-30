@@ -32,33 +32,33 @@ print(country_Israel.fromkeys(country_Israel.keys(),""))
 
 xd=country_Israel.fromkeys(country_Israel.keys())
 
-# name_cantry:str=str(input( "what is name cantry?"))
-# xd["name "] = name_cantry
-# print(xd)
-# birth:int=int(input(" what is birth? "))
-# xd["birth "]=birth
-# population_millions:int= int(input(" what ispopulation_millions "))
-# xd["population_millions"]=population_millions
-# capital:str=str(input("what is capital? "))
-# xd["capital"]=capital
-# language:str=str(input("what is language? "))
-# xd["language"]=language
-# list_cities=[]
-# citie1:str=str(input("what is citie1? "))
-# citie2:str=str(input("what is citie2? "))
-# citie3:str=str(input("what is citie3? "))
-# ty=list_cities.append(citie1)
-# tr=list_cities.append(citie2)
-# tl=list_cities.append(citie3)
-# # print(list_cities)
-# xd["cities"]=list_cities
-# currency:str=str(input("what is currency? "))
-# xd["currency"]=currency
-# area_Kilometer:int=int(input(" what is area_Kilometer? "))
-# xd["area_Kilometer"]=area_Kilometer
-# gdp_billion:int=int(input(" what is gdp_billion? "))
-# xd["gdp_billion"]=gdp_billion
-# print(xd)
+name_cantry:str=str(input( "what is name cantry?"))
+xd["name "] = name_cantry
+print(xd)
+birth:int=int(input(" what is birth? "))
+xd["birth "]=birth
+population_millions:int= int(input(" what ispopulation_millions "))
+xd["population_millions"]=population_millions
+capital:str=str(input("what is capital? "))
+xd["capital"]=capital
+language:str=str(input("what is language? "))
+xd["language"]=language
+list_cities=[]
+citie1:str=str(input("what is citie1? "))
+citie2:str=str(input("what is citie2? "))
+citie3:str=str(input("what is citie3? "))
+ty=list_cities.append(citie1)
+tr=list_cities.append(citie2)
+tl=list_cities.append(citie3)
+# print(list_cities)
+xd["cities"]=list_cities
+currency:str=str(input("what is currency? "))
+xd["currency"]=currency
+area_Kilometer:int=int(input(" what is area_Kilometer? "))
+xd["area_Kilometer"]=area_Kilometer
+gdp_billion:int=int(input(" what is gdp_billion? "))
+xd["gdp_billion"]=gdp_billion
+print(xd)
 
 
 # 2:
